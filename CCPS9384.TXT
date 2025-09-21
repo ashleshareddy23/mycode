@@ -14,6 +14,7 @@ JETR94**  APR2024   STEP PLAN NEW RATE SETUP                         **
       *--------------------------
 
            INITIALIZE L9384-INPUT-PARM-INFO.
+           PRINT HELLO WORLD.
                                
        9384-1000-BUILD-PARM-INFO-X.
            EXIT.
