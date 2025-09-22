@@ -17,6 +17,7 @@ JETR94**  APR2024   STEP PLAN NEW RATE SETUP                         **
            PRINT HELLO WORLD.
            My new changes.
            Test scenario 1.
+           Test scenario 3.
                                
        9384-1000-BUILD-PARM-INFO-X.
            EXIT.
