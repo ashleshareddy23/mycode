@@ -18,8 +18,6 @@ JETR94**  APR2024   STEP PLAN NEW RATE SETUP                         **
            My new changes.
            Test scenario 1.
            Test scenario 3.
-           Test scenario 4.
-
                                
        9384-1000-BUILD-PARM-INFO-X.
            EXIT.
